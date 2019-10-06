@@ -14,7 +14,7 @@ Use the Differential Privacy Library if you are looking to:
 
 Diffprivlib is compatible with: __Python 3.4–3.7__.
 
-Documentation can be found at [![Read The Docs](https://diffprivlib.readthedocs.io/en/latest/)] and the [![Whitepaper](https://www.researchgate.net/publication/334248490_Diffprivlib_The_IBM_Differential_Privacy_Library)]
+Documentation can be found at [Read The Docs](https://diffprivlib.readthedocs.io/en/latest/) and the [Whitepaper](https://www.researchgate.net/publication/334248490_Diffprivlib_The_IBM_Differential_Privacy_Library)
 
 ## Getting started: [ML with differential privacy in 30 seconds](https://github.com/IBM/differential-privacy-library/blob/master/notebooks/30seconds.ipynb)
 We're using the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris), so let's load it and perform an 80/20 train/test split.
